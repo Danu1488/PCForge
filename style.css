@@ -1,0 +1,133 @@
+
+body {
+    font-family: Arial;
+    background-color: #101820;
+    color: white;
+    margin: 0;
+}
+
+header {
+    background-color: #080d13;
+    text-align: center;
+    padding: 25px;
+}
+
+header h1 {
+    color: #00aaff;
+}
+
+nav {
+    background-color: #1c2b38;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: #00aaff;
+}
+
+section {
+    padding: 30px;
+}
+
+h2 {
+    color: #00aaff;
+    text-align: center;
+}
+
+.intro {
+    background-color: #162431;
+    text-align: center;
+    padding: 50px;
+}
+
+.buton {
+    background-color: #008ed6;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.content {
+    text-align: center;
+}
+
+.content img {
+    width: 300px;
+    height: 200px;
+}
+
+.cards {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    background-color: #1c2b38;
+    width: 250px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.card img {
+    width: 200px;
+    height: 150px;
+}
+
+.card h3 {
+    color: #00aaff;
+}
+
+.card a {
+    color: #00aaff;
+}
+
+.info-list {
+    width: 300px;
+    margin: auto;
+    line-height: 2;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.contact-form {
+    background-color: #1c2b38;
+    width: 300px;
+    padding: 20px;
+    margin: auto;
+}
+
+.contact-form label {
+    display: block;
+    margin-top: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+.contact-form button {
+    background-color: #008ed6;
+    color: white;
+    padding: 10px;
+    margin-top: 15px;
+    border: none;
+}
+
+footer {
+    background-color: #080d13;
+    text-align: center;
+    padding: 15px;
+    color: #aaaaaa;
+}
